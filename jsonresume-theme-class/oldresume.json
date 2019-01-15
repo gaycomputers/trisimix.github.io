@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Joshua Matthew Beaker",
+    "label": "Computer Science Student",
+    "picture": "",
+    "email": "joshthesoftwaredev@gmail.com",
+    "phone": "(313) 221-6354",
+    "website": "https://www.linkedin.com/in/joshbeaker/",
+    "summary": "",
+    "location": {
+      "city": "Detroit",
+      "countryCode": "US",
+      "region": "MI"
+    }
+  },
+  "education": [
+    {
+      "institution": "Wayne State University",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2017-08-21"
+    },
+    {
+      "institution": "St. Clair County Community College",
+      "area": "Science",
+      "studyType": "Associates",
+      "startDate": "2014-08-24",
+      "endDate": "2017-04-28"
+    }
+  ],
+  "volunteer": [    {
+    "organization": "Peer Hackers",
+    "position": "President/Founder",
+    "website": "",
+    "startDate": "2017-11-08",
+    "highlights": [
+      "Created student organization with goal of knowledge sharing, collaboration, technical extracurricular, free software open source principles.",
+      "Helped organized University hackathon (DHack 2018 sponsored by AngelHack) for over 200 attendees, and taking full responsibility (organizing teams, sponsors, and specifics) for 2019 hackathon.",
+      "Organized and personally ran events such as: OverTheWire wargames, introducing more than 20 students to linux and  security. Technical interviews, teaching students how to interview (ongoing). Git workshop, introducing students to git for the first time (ongoing). Workplace emulation event, multiweek project that included recruiting workplace professionals to set up an emulated workplace environment with the goal of allowing students to sign up and work on a team with fellow students to gain knowledge on applying skills and working in a real development environment (ongoing).",
+      "Made a drone using arduino, 3d printing, and c++."
+    ]
+  },
+  {
+    "organization": "Wayne State Robotics Club",
+    "position": "Treasurer",
+    "startDate": "2018-11-15",
+    "highlights": [
+      "Used experience to help up and coming org get off the ground."
+    ]
+  },
+  {
+    "organization": "Wayne State's ACM Chapter",
+    "position": "Member"
+  },
+  {
+    "organization": "Wayne State Computing Coalition (ongoing)",
+    "position": "Founder/Member",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "highlights": [
+      "Founded coalition to allow computing student orgs to pool resources and share space, as well as to encourage students to make their own topic-specific orgs (promising them membership and therefore access to pooled resources from an early stage)."
+    ]
+  }
+  ],
+  "work": [
+    {
+      "company": "”2018 Innovative ICT” International Summer School on Information and Communication Technology",
+      "position": "Xidian University, Xi'an China",
+      "startDate": "2018-07-22",
+      "endDate": "2018-07-31",
+      "highlights": [
+        "Attended lectures and worked with over 140 students from dozens of countries across Asia, Europe, Middle East, and Africa, as only attendee from western hemisphere",
+        "Created AM radio from schematic, using soldering, pick-and-place machines, and oscilloscope. Placed 3rd overall.",
+        "Worked with Chinese students on personal drone project: making arduino flight receiver."
+      ]
+    },
+    {
+      "company": "M^2 Gate",
+      "position": "Ann Arbor, MI (virtual)",
+      "startDate": "2018-05-15",
+      "endDate": "2018-07-31",
+      "highlights": [
+        "Worked with students from Libya, Egypt, Tunisia, Morocco",
+        "Identified and addressed social issues in aforementioned countries, decided to focus on lack of career advising.",
+        "Used my experience to help whiteboard a crowdsourced mobile application that members can use to give personal career advice."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Arch Linux",
+        "Bash",
+        "Debian"
+      ]
+    }
+  ]
+}
+
